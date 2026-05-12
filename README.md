@@ -1,27 +1,82 @@
-# 👋 Hi there, I'm Muhammad Saif!
+# 👋 Hi there, I'm Muhammad Saif Iqbal!
 
-Welcome to my GitHub profile! I'm a passionate and aspiring **Data Analyst** with a strong foundation in analysing tools & Programming language like **Excel, SQL, Power BI, and Python**. I love exploring data, uncovering insights, and creating meaningful dashboards and reports.
+Welcome to my GitHub profile!
+I’m a passionate Data Analyst and Trainer with hands-on experience in data analysis, reporting, dashboard development, and training aspiring professionals in analytics tools and technologies.
+
+---
 
 ## 💼 About Me
-- 🎓 Recently completed a Data Analyst internship at **SLA Consultants India**
-- 📊 Proficient in: **Excel (Advanced), Power BI, SQL, Macros/VBA, Python**
-- 📁 Worked on real-world datasets, including a Grocery Store sales analysis project
-- 👨‍💻 Open to opportunities in **Data Analysis, Business Analysis, Junior Data Scientist, Reporting Analyst, Research Analyst**, and **MIS Analyst**
+
+* 🎓 MCA postgraduate with strong analytical and problem-solving skills
+* 📊 Currently working as a **Data Analyst Trainer at Anudip Foundation** *(Mar 2026 – Present)*
+* 📈 Previously worked as a **Junior Data Analyst at Horizon Tech India** *(Jun 2025 – Feb 2026)*
+* 📚 Experienced in training students on Excel, SQL, Power BI, and Python
+* 📁 Worked on real-world data analysis and dashboard projects
+* 👨‍💻 Open to opportunities in:
+
+  * Data Analysis
+  * Business Analysis
+  * Reporting & MIS Analysis
+  * Data Visualization
+  * Junior Data Science Roles
+
+---
 
 ## 🛠️ Tools & Technologies
-- **Data Visualization**: Power BI, Excel Dashboards
-- **Database Management**: SQL Server, MySQL
-- **Programming**: Python (Basics), VBA
-- **Other Tools**: MS Office Suite, Git, GitHub
+
+### 📊 Data Analysis & Visualization
+
+* Microsoft Excel (Advanced)
+* Power BI
+* SQL
+* Excel Dashboards
+* Power Query
+
+### 💻 Programming & Databases
+
+* Python
+* VBA / Macros
+* MySQL
+* SQL Server
+
+### 🔧 Other Tools
+
+* Git & GitHub
+* MS Office Suite
+
+---
 
 ## 📈 Featured Projects
-- **Grocery Store Dashboard** – Analyzed sales performance, customer behavior, and product trends
-- **Social Media Analytics (Power BI)** – Dashboard to visualize average time spent by users
+
+### 🛒 Grocery Store Sales Dashboard
+
+Analyzed sales performance, customer behavior, and product trends using Excel and Power BI.
+
+### 📱 Social Media Analytics Dashboard
+
+Built an interactive Power BI dashboard to visualize user engagement and average time spent on social media platforms.
+
+### 📊 Data Analysis Training Projects
+
+Created practice datasets, dashboards, and analytics assignments for students learning Excel, SQL, and Power BI.
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Power BI & DAX
+* Data Cleaning & Automation
+* Business Intelligence Reporting
+* Data Storytelling Techniques
+
+---
 
 ## 📫 Let's Connect!
-- 📧 Email: muhammadsaif1444@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/muhammad--saif/
 
+* 📧 Email: [muhammadsaif1444@gmail.com](mailto:muhammadsaif1444@gmail.com)
+* 🔗 LinkedIn: linkedin.com/in/muhammad--saif/
 
-Thanks for visiting my profile! 😊  
-Feel free to check out my repositories and drop a star ⭐ if you like them!
+---
+
+⭐ Thanks for visiting my profile!
+Feel free to explore my repositories and connect with me.
